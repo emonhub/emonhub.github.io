@@ -1,6 +1,6 @@
 #### The emonHub software is being developed by enthusiasts as part of the OpenEnergyMonitor project to build a fully open-source hardware and software energy monitoring platform. 
 
-##Visit the [emonHub website](https://emonhub.org) for documentation and support.
+##Visit the [emonHub website](http://emonhub.org) for documentation and support.
 
 #### This GitHub repository is for maintaining and hosting the emonHub documentation website. 
 
