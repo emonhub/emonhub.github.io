@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteBase /
+RewriteCond %{REQUEST_URI} !^/temp\.html$
+RewriteRule ^(.*)$ http://emonhub.org/temp.html [R=307,L]
